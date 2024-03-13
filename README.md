@@ -24,7 +24,7 @@ The data in this repository has been sourced from publicly available sources, in
 
 ## License
 
-The dataset is provided under the [MIT License](LICENSE), allowing for unrestricted use and modification for both commercial and non-commercial purposes. However, users are encouraged to provide attribution to this repository if the data is used in their work.
+The dataset is provided under the CC BY 4.0 License, allowing for unrestricted use and modification for both commercial and non-commercial purposes. However, users are encouraged to provide attribution to this repository if the data is used in their work.
 
 ## Contribution
 
