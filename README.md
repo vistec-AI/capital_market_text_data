@@ -28,7 +28,7 @@ The dataset is provided under the CC BY 4.0 License, allowing for unrestricted u
 
 ## Contribution
 
-Contributions to this repository are welcome. If you have additional financial text data that you would like to contribute, please submit a pull request following the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
+Contributions to this repository are welcome. If you have additional financial text data that you would like to contribute, please submit a pull request.
 
 ## Acknowledgements
 
