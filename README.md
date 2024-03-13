@@ -1,6 +1,8 @@
 # Financial Text Data Collection
 
-This repository contains a collection of raw financial text data. The dataset encompasses a wide range of financial documents, including annual reports, news articles, and social media posts
+This repository contains a collection of raw financial text data. The dataset encompasses a wide range of financial documents, including annual reports, news articles, and social media posts.
+
+For now please refer to our [Huggingface Repo](https://huggingface.co/datasets/airesearch/CMDF_VISTEC)
 
 ## Dataset Description
 
