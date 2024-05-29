@@ -1,3 +1,5 @@
+<img src="https://github.com/vistec-AI/vistec-ai.github.io/blob/main/wangchanx_logo_color.png?raw=true" width="250">
+
 # Financial Text Data Collection
 
 This repository contains a collection of raw financial text data. The dataset encompasses a wide range of financial documents, including annual reports, news articles, and social media posts.
